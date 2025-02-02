@@ -6,9 +6,9 @@
 
 ## <ins>Contents
 - [Monitoring Tools](#monitoring-tools )
+- [Node Exporter](#node-exporter)
 - [AWS Configuration](#aws-configuration)
 - [Ansible Automation](#ansible-automation)
-- [Node Exporter](#node-exporter)
 - [Integration](#integration)
 - [Slack Output](#slack-output)
 --------------------
