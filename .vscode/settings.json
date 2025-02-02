@@ -1,0 +1,4 @@
+{
+    "ansible.python.interpreterPath": "/bin/python3",
+    "ansible.ansible.reuseTerminal": true
+}
