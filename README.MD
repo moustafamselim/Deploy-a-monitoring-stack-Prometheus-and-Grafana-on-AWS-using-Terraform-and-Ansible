@@ -202,5 +202,5 @@ rule_files:
 ------
 ### Slack Output
 
-
+![Slack](https://github.com/moustafamselim/Deploy-a-monitoring-stack-Prometheus-and-Grafana-on-AWS-using-Terraform-and-Ansible/blob/8f23c449f113f270a5d2f22daa4b4cda26adecf6/image/output.png)
 
