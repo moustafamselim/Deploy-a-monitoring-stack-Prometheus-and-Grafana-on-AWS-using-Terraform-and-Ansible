@@ -1,0 +1,19 @@
+---
+# Install Node Exportar 
+all:
+  hosts:
+    control:
+      ansible_host: 54.84.231.26  # IP of the target server
+      ansible_user: ubuntu         # SSH user for the target server
+      ansible_ssh_private_key_file: /home/mostafa/Mostafa/My-Projects/prometheus/new.pem
+      ansible_python_interpreter: /usr/bin/python3
+    
+    target:
+      ansible_host: 18.233.63.213  # IP of the target server
+      ansible_user: ubuntu         # SSH user for the target server
+      ansible_ssh_private_key_file: /home/mostafa/Mostafa/My-Projects/prometheus/new.pem
+      ansible_python_interpreter: /usr/bin/python3
+
+
+
+      
